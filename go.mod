@@ -1,4 +1,4 @@
-module github.com/chaos-mesh/chaos-mesh/v2
+module github.com/echoutopia/chaos-mesh/v2
 
 go 1.19
 
